@@ -10,7 +10,7 @@
   * [AAD](laskuvarjo-ja-sen-komponentit/aad.md)
 * [Muut tarvikkeet](muut-tarvikkeet.md)
   * [Korkeusmittari](muut-tarvikkeet/korkeusmittari.md)
-  * Äänikorkeusmittari
+  * [Äänikorkeusmittari](muut-tarvikkeet/aanikorkeusmittari.md)
   * Hyppypuku / suitti
   * Kypärä
   * Suojalasit / googelit
