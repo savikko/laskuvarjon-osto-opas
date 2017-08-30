@@ -1,3 +1,11 @@
 {
-    "plugins": ["github-edit"]
+    "plugins": [
+        "github-edit"
+    ],
+    "pluginsConfig": {
+        "github-edit": {
+            "repo": "savikko/laskuvarjon-osto-opas",
+            "branch": "master"
+        }
+    }
 }
