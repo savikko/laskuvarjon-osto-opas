@@ -18,8 +18,7 @@ Päätöksiä, joita sinun tulee tehdä hankkimisprosessin aikana:
 * Päävarjon koko ja tyyppi
 * Varavarjon koko
 * Ja tärkeimpänä: väritys
-  _Laskuvarjourheilijat yleensä — jostain ihme syystä — ovat fiksautuneet johonkin tiettyyn väriin \(neon-vihreä ja neon-keltainen, esimerkiksi\) ja kaikki roippeet loistavat näppärästi omistajuuttaan kyseisellä värillä dropzonella :\)_
+  _Laskuvarjourheilijat yleensä — jostain ihme syystä — ovat fiksautuneet johonkin tiettyyn väriin \(neon-vihreä ja neon-keltainen, esimerkiksi\) ja kaikki roippeet loistavat näppärästi omistajuuttaan kyseisellä värillä dropzonella :\)_
 
-  
 
 
