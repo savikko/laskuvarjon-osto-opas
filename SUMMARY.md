@@ -11,7 +11,7 @@
 * [Muut tarvikkeet](muut-tarvikkeet.md)
   * [Korkeusmittari](muut-tarvikkeet/korkeusmittari.md)
   * [Äänikorkeusmittari](muut-tarvikkeet/aanikorkeusmittari.md)
-  * Hyppypuku / suitti
+  * [Hyppypuku / suitti](muut-tarvikkeet/hyppypuku-suitti.md)
   * Kypärä
   * Suojalasit / googelit
   * Suojakäsineet / hanskat
