@@ -1,7 +1,7 @@
 # Summary
 
-* [Esipuhe](README.md)
-* Mistä lasku[Mistä laskuvarjo ostetaan?](/chapter1.md)varjo ostetaan?
+* E[Esipuhe](/README.md "Esipuhe")sipuhe
+* [Mistä laskuvarjo ostetaan?](/mista-laskuvarjo-ostetaan.md)
 * [Mitä laskuvarjo maksaa?](mita-laskuvarjo-maksaa.md)
 * [Laskuvarjo ja sen komponentit](laskuvarjo-ja-sen-komponentit.md)
   * [Valjaat](laskuvarjo-ja-sen-komponentit/valjaat.md)
