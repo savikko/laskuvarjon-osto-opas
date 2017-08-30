@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [Mistä laskuvarjo ostetaan?](chapter1.md)
+* [Esipuhe](README.md)
+* Mistä lasku[Mistä laskuvarjo ostetaan?](/chapter1.md)varjo ostetaan?
 * [Mitä laskuvarjo maksaa?](mita-laskuvarjo-maksaa.md)
 * [Laskuvarjo ja sen komponentit](laskuvarjo-ja-sen-komponentit.md)
   * [Valjaat](laskuvarjo-ja-sen-komponentit/valjaat.md)
@@ -18,4 +18,6 @@
   * [Muu pikkutavara](muut-tarvikkeet/muu-pikkutavara.md)
   * [Yepzon](muut-tarvikkeet/yepzon.md)
 * [Loppusanat](loppusanat.md)
+
+
 
