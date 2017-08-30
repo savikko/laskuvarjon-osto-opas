@@ -15,7 +15,7 @@
   * [Kypärä](muut-tarvikkeet/kypara.md)
   * [Suojalasit / googelit](muut-tarvikkeet/suojalasit-googelit.md)
   * [Suojakäsineet / hanskat](muut-tarvikkeet/suojakasineet-hanskat.md)
-  * Muu pikkutavara
+  * [Muu pikkutavara](muut-tarvikkeet/muu-pikkutavara.md)
   * Yepzon
 * [Loppusanat](loppusanat.md)
 
