@@ -1,6 +1,6 @@
 # Summary
 
-* E[Esipuhe](/README.md "Esipuhe")sipuhe
+* [Esipuhe](/README.md "Esipuhe")
 * [Mistä laskuvarjo ostetaan?](/mista-laskuvarjo-ostetaan.md)
 * [Mitä laskuvarjo maksaa?](mita-laskuvarjo-maksaa.md)
 * [Laskuvarjo ja sen komponentit](laskuvarjo-ja-sen-komponentit.md)
