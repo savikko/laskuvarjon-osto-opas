@@ -14,7 +14,7 @@
   * [Hyppypuku / suitti](muut-tarvikkeet/hyppypuku-suitti.md)
   * [Kypärä](muut-tarvikkeet/kypara.md)
   * [Suojalasit / googelit](muut-tarvikkeet/suojalasit-googelit.md)
-  * Suojakäsineet / hanskat
+  * [Suojakäsineet / hanskat](muut-tarvikkeet/suojakasineet-hanskat.md)
   * Muu pikkutavara
   * Yepzon
 * [Loppusanat](loppusanat.md)
