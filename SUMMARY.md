@@ -7,7 +7,7 @@
   * [Valjaat](laskuvarjo-ja-sen-komponentit/valjaat.md)
   * [Päävarjo](laskuvarjo-ja-sen-komponentit/paavarjo.md)
   * [Varavarjo](laskuvarjo-ja-sen-komponentit/varavarjo.md)
-  * AAD
+  * [AAD](laskuvarjo-ja-sen-komponentit/aad.md)
 * [Muut tarvikkeet](muut-tarvikkeet.md)
   * Korkeusmittari
   * Äänikorkeusmittari
