@@ -5,7 +5,7 @@
 * [Mitä laskuvarjo maksaa?](mita-laskuvarjo-maksaa.md)
 * [Laskuvarjo ja sen komponentit](laskuvarjo-ja-sen-komponentit.md)
   * [Valjaat](laskuvarjo-ja-sen-komponentit/valjaat.md)
-  * Päävarjo
+  * [Päävarjo](laskuvarjo-ja-sen-komponentit/paavarjo.md)
   * Varavarjo
   * AAD
 * [Muut tarvikkeet](muut-tarvikkeet.md)
