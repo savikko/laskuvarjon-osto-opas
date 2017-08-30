@@ -16,6 +16,6 @@
   * [Suojalasit / googelit](muut-tarvikkeet/suojalasit-googelit.md)
   * [Suojakäsineet / hanskat](muut-tarvikkeet/suojakasineet-hanskat.md)
   * [Muu pikkutavara](muut-tarvikkeet/muu-pikkutavara.md)
-  * Yepzon
+  * [Yepzon](muut-tarvikkeet/yepzon.md)
 * [Loppusanat](loppusanat.md)
 
