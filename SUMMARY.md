@@ -13,7 +13,7 @@
   * [Äänikorkeusmittari](muut-tarvikkeet/aanikorkeusmittari.md)
   * [Hyppypuku / suitti](muut-tarvikkeet/hyppypuku-suitti.md)
   * [Kypärä](muut-tarvikkeet/kypara.md)
-  * Suojalasit / googelit
+  * [Suojalasit / googelit](muut-tarvikkeet/suojalasit-googelit.md)
   * Suojakäsineet / hanskat
   * Muu pikkutavara
   * Yepzon
