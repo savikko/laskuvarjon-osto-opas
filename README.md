@@ -11,14 +11,14 @@ Tämä artikkeli kertoo joitain — lähinnä kirjoittajan omia — näk
 Päätöksiä, joita sinun tulee tehdä hankkimisprosessin aikana:
 
 * Budjetti, jonka haluat/pystyt sijoittamaan laskuvarjoosi
-  _Tämä voi rajata muita päätöksiä._
+  * _Tämä voi rajata muita päätöksiä._
 * Uusi/käytetty
-  _Huom, voit ostaa osan komponenteista uutena, osan käytettyinä._
+  * _Huom, voit ostaa osan komponenteista uutena, osan käytettyinä._
 * Valjaiden malli ja siihen mahdollisesti tulevat lisävarusteet
 * Päävarjon koko ja tyyppi
 * Varavarjon koko
 * Ja tärkeimpänä: väritys
-  _Laskuvarjourheilijat yleensä — jostain ihme syystä — ovat fiksautuneet johonkin tiettyyn väriin \(neon-vihreä ja neon-keltainen, esimerkiksi\) ja kaikki roippeet loistavat näppärästi omistajuuttaan kyseisellä värillä dropzonella :\)_
+  * _Laskuvarjourheilijat yleensä — jostain ihme syystä — ovat fiksautuneet johonkin tiettyyn väriin \(neon-vihreä ja neon-keltainen, esimerkiksi\) ja kaikki roippeet loistavat näppärästi omistajuuttaan kyseisellä värillä dropzonella :\)_
 
 
 
