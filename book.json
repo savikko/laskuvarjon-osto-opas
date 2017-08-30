@@ -1,11 +1,14 @@
 {
     "plugins": [
-        "github-edit"
+        "github-edit", "analytics"
     ],
     "pluginsConfig": {
         "github-edit": {
             "repo": "savikko/laskuvarjon-osto-opas",
             "branch": "master"
+        },
+        "analytics": {
+            "google": "UA-105692240-1"
         }
     }
 }
