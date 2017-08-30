@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 * [Mistä laskuvarjo ostetaan?](chapter1.md)
 * [Mitä laskuvarjo maksaa?](mita-laskuvarjo-maksaa.md)
-* Laskuvarjo ja sen komponentit
-  * Valjaat
+* [Laskuvarjo ja sen komponentit](laskuvarjo-ja-sen-komponentit.md)
+  * [Valjaat](laskuvarjo-ja-sen-komponentit/valjaat.md)
   * Päävarjo
   * Varavarjo
   * AAD
