@@ -1,4 +1,4 @@
-Laskuvarjon osto-opas
+## Laskuvarjon osto-opas
 
 Vastuuvapautuslauseke:
 
