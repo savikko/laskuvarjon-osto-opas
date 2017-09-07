@@ -21,5 +21,9 @@ Heidän perusmallit ovat seuraavat:
 * **Protrack**
   * Kolmen vapaapudotuspiipan lisäksi tallentaa hypyistä dataa.
 
+Uusin tulokas äänikorkeusmittarimaailmaan on [AO\(N²\) Brilliant Pebbles](https://www.aon2.co.uk/brilliant_pebbles).
 
+![](/assets/aon_3.png)
+
+Hinta on erittäin kohtuullinen \(alle 100€\) ja siihen pystyy määrittämään \(tehdään puhelinappiksella\) 20 eri piippaa haluamaasi korkeuksiin. Lataus USBilla, akku kestää 2 kuukautta.
 
