@@ -25,5 +25,5 @@ Uusin tulokas äänikorkeusmittarimaailmaan on [AO\(N²\) Brilliant Pebbles](htt
 
 ![](/assets/aon_3.png)
 
-Hinta on erittäin kohtuullinen \(alle 100€\) ja siihen pystyy määrittämään \(tehdään puhelinappiksella\) 20 eri piippaa haluamaasi korkeuksiin. Lataus USBilla, akku kestää 2 kuukautta.
+Hinta on erittäin kohtuullinen \(alle 100€\) ja siihen pystyy määrittämään \(tehdään puhelinappiksella\) 20 eri piippaa haluamaasi korkeuksiin. Lataus USBilla, akku kestää 2 kuukautta. Toimii vain piippana, ei käsittääkseni tallenna dataa hypyltä.
 
