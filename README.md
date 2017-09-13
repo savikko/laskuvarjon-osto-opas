@@ -22,7 +22,7 @@ Päätöksiä, joita sinun tulee tehdä hankkimisprosessin aikana:
 
 ### Oppaasta
 
-Oppaan julkaisutyökalu on Gitbook. Se perustuu versionhallintatyökaluun nimeltä Git. Varsinainen data on tallennettuna [Github](/github.com/savikko/laskuvarjon-osto-opas)issa.
+Oppaan julkaisutyökalu on Gitbook. Se perustuu versionhallintatyökaluun nimeltä Git. Varsinainen data on tallennettuna Githubissa: https://github.com/savikko/laskuvarjon-osto-opas .
 
 Voit tehdä muokkauksia sivuihin suoraan Githubissa - muokkauksen hyväksymisen jälkeen \(Github-terminologialla Pull Requestin\) se ilmestyy tänne Gitbookiin julkaistuun versioon.
 
