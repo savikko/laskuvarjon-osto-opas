@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "github-edit", "analytics"
+        "editlink", "analytics"
     ],
     "pluginsConfig": {
         "github-edit": {
@@ -9,6 +9,10 @@
         },
         "analytics": {
             "google": "UA-105692240-1"
+        },
+        "editlink": {
+            "base": "https://github.com/savikko/laskuvarjon-osto-opas/edit/master",
+            "label": "Ehdota muokkausta"
         }
     }
 }
