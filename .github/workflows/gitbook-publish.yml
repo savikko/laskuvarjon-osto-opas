@@ -1,4 +1,4 @@
-name: 'Gitbook publish'
+name: 'Gitbook julkaisu'
 on:
   push:
     branches: [ main ]
