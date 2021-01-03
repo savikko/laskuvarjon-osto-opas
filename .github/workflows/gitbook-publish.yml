@@ -15,5 +15,5 @@ jobs:
       uses: ZanderZhao/gitbook-action@v1.2.4  
       with:                                
         token: ${{ secrets.PERSONAL_TOKEN }}
-        source_branch: main
+        source_branch: master
         time_zone: Europe/Helsinki
